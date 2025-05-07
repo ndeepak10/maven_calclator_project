@@ -10,7 +10,7 @@ pipeline {
             steps {
                     git branch: 'main',
                     credentialsId: 'deepak',
-                    url: 'https://github.com/ndeepak10/Jenkins_01.git'
+                    url: 'https://github.com/ndeepak10/maven_calclator_project.git'
             }
         }
 
